@@ -22,3 +22,5 @@ allprojects {
         google()
     }
 }
+
+apply(from = "gradle/gh-packages.gradle.kts")
