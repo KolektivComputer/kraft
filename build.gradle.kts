@@ -5,7 +5,7 @@ plugins {
     alias(libs.plugins.vanniktech.mavenPublish) apply false
 }
 
-group = "sh.illumi.kraft"
+group = "computer.kolektiv.kraft"
 version = "0.0.2"
 
 allprojects {

@@ -20,3 +20,10 @@ project!
 
 ## License
 This project is provided under the [MIT license](LICENSE).
+## Maven
+
+```kotlin
+implementation("computer.kolektiv.kraft:kraft:<version>")
+```
+
+GroupId: `computer.kolektiv.kraft` (Kotlin packages still `sh.illumi.kraft.*` until a follow-up). Dual-publish: see `docs/CI_DUAL_PUBLISH.md`.
